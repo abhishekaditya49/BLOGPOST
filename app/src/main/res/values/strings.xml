@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BlogPost</string>
+    <string name="Loginlogo">BLOG POST</string>
+    <string name="EmailHint">EmailID</string>
+    <string name="PasswordHint">Password</string>
+    <string name="loginbutton">LOGIN</string>
+    <string name="buttonnewaccount">CREATE A NEW ACCOUNT</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_account_setting">Account Settings</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="new_account_text">Create New Account</string>
+    <string name="conPasswordHint">Confirm Password</string>
+    <string name="create_account_text">Create Account</string>
+    <string name="oldaccount">Already Have An Account?</string>
+    <string name="default_profile_photo">default profile picture</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="save_button">SAVE</string>
+    <string name="adddescription">Add Description...</string>
+    <string name="upload">uploadimage</string>
+    <string name="post">POST</string>
+    <string name="viewphoto">View Profile Photo</string>
+    <string name="selectphoto">Select Profile Photo</string>
+    <string name="home">Home</string>
+    <string name="notification">Notification</string>
+    <string name="account">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_image">profile image</string>
+    <string name="homefragment">Home Fragment</string>
+    <string name="accountragment">Account fragment</string>
+    <string name="notificationfragment">Notification Fragment</string>
+    <string name="postimage">postimage</string>
+    <string name="likebutton">Like Button</string>
+    <string name="addcomment">Add a comment...</string>
+</resources>

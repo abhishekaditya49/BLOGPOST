@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="@color/whitetransparenthalf"
+    android:padding="5dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/userphoto"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/gray" />
+
+    <TextView
+        android:id="@+id/usernameincomment"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_alignTop="@+id/userphoto"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="3dp"
+        android:layout_toEndOf="@+id/userphoto"
+        android:text="Username"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/commentsbyuser"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_below="@+id/usernameincomment"
+        android:layout_marginStart="10dp"
+        android:layout_toEndOf="@+id/userphoto"
+        android:text="Comment"
+
+        android:textSize="17sp" />
+</RelativeLayout>
