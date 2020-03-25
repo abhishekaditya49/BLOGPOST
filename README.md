@@ -5,14 +5,14 @@ Notifications and the fragment where all the current user's post show up(My Feed
 
 
 
-![](https://drive.google.com/open?id=109kMsDliiwm91H-GK1kq4qkZwptZ4JR_)
+![](ScreenShots/Screenshot_2020-03-07-09-23-40-776_com.example.blogpost.jpg)
 
-![](https://drive.google.com/open?id=106Iv3EQ-WT7rJRPoX-5gUTE_bWjJ-I7e)
+![](ScreenShots/Screenshot_2020-03-07-09-23-46-925_com.example.blogpost.jpg)
 
-![](https://drive.google.com/open?id=1059OXUbm_Wb_0a1Ot9Tp95rFvORMSlME)
+![](ScreenShots/Screenshot_2020-03-07-09-24-21-460_com.example.blogpost.jpg)
 
-![](https://drive.google.com/open?id=1-ykwYeDtQGmqdIdi3FUmmPle8HCxXN9X)
+![](ScreenShots/Screenshot_2020-03-07-09-24-30-003_com.example.blogpost.jpg)
 
-![](https://drive.google.com/open?id=1-tcbhl3a7Ar7ag8n7jA9RhXdRUt--27n)
+![](ScreenShots/Screenshot_2020-03-07-09-24-40-927_com.example.blogpost.jpg)
 
-![](https://drive.google.com/open?id=1-rLwjIjnLhpM2YgGbArFaLbppsPvVvXs)
+![](ScreenShots/Screenshot_2020-03-07-09-24-54-568_com.example.blogpost.jpg)
