@@ -5,7 +5,7 @@ Notifications and the fragment where all the current user's post show up(My Feed
 
 
 
-![alt text](https://drive.google.com/open?id=109kMsDliiwm91H-GK1kq4qkZwptZ4JR_)
+![Alt text](https://drive.google.com/open?id=109kMsDliiwm91H-GK1kq4qkZwptZ4JR_)
 
 ![alt text](https://drive.google.com/open?id=106Iv3EQ-WT7rJRPoX-5gUTE_bWjJ-I7e)
 
